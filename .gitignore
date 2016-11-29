@@ -1,24 +1,8 @@
-# Compiled Object files
-*.o
-*.obj
+# 编译输出目录
+dist
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# npm模块安装目录
+node_modules
 
-# Compiled Static libraries
-*.a
-*.lib
-
-# Executables
-*.exe
-
-# DUB
-.dub
-docs.json
-__dummy.html
-docs/
-
-# Code coverage
-*.lst
+# npm报错日志
+npm-debug.log
