@@ -8,8 +8,9 @@
 
 ### 运行：
 ```bash
-1. npm run mwatch
-2. npm start
+1. npm install
+2. npm run mwatch
+3. npm start
 ```
 
 ### 文件说明：
